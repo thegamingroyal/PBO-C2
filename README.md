@@ -1,2 +1,2 @@
 # PBO-C2
-pbo prak
+Praktikum PBO
