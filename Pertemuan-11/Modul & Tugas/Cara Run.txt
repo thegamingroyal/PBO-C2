@@ -1,0 +1,13 @@
+Requirement : 
+1. Buat tabel mahasiswa
+    CREATE TABLE mahasiswa (
+        nim VARCHAR(20) PRIMARY KEY,
+        nama VARCHAR(100) NOT NULL,
+        jurusan VARCHAR(100) NOT NULL,
+        alamat VARCHAR(255) NOT NULL
+    );
+
+2. Koneksi database di rancang untuk mysql via XAMPP port 3306
+3. Compile semua file Java.
+4. Jalankan program
+8. Jika ada error koneksi, pastikan database, user, dan password sudah benar.
